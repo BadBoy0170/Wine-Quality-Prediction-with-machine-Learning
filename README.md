@@ -1,7 +1,20 @@
-# Wine-Quality-Predictions
+# Wine-Quality-Predictions-with-Machine-Learning
+This is basic Machine Learning project of Quality of Wine.
 Predicting the Quality of Red Wine using Machine Learning Algorithms for Regression Analysis, Data Visualizations and Data Analysis.
 
-# Description
+
+[![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
+
+# Documantation
+On this repository it is  simple machine learning project.
+
+In machine learning project predict the Quality of wine ['Fixed-acidity','Volatile-acidity','Residual-Sugar','Chlorides','RFree-Sulphur-Dioxide',etc..] 1600 records in **csv** file on this project.
+
+
+on this project are testing a multiple regrassion model there example are below
+ - DecisionTreeClassifier Model
+ - KNeighborsClassifier Model
+ - KMeans Model
 
 # Context
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
@@ -42,6 +55,9 @@ KNIME is a great tool (GUI) that can be used for this.
 7- Decision Tree learner Node output to input Decision Tree Node input
 8- Decision Tree output to input ROC Node.. (here you can evaluate your model base on AUC value)
 
+## Technology used in Project :
+<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">     
+
 # Inspiration
 Use machine learning to determine which physiochemical properties make a wine 'good'!
 
@@ -51,6 +67,12 @@ I just shared it to kaggle for convenience. (I am mistaken and the public licens
 
  Modeling wine preferences by data mining from physicochemical properties.
 
+## Bug / Feature Request :
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
+
+
 ## Contribution
 
 Contributions are welcome! If you have any suggestions, bug fixes, or feature additions, please open an issue or submit a pull request.
@@ -58,11 +80,10 @@ Contributions are welcome! If you have any suggestions, bug fixes, or feature ad
 **BTC Wallet : OxfCaaF45156380eF33f078256d0Aa98f0b10F175b** my efforts and help it grow by buying me coffee - but only if you're definitely able to!
 
 
-### Contact Me !
+## Connect with me! 🌐
+Known on internet as **BadBoy17**
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
 
-
-
+## Email Me :e-mail:
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:Rajveershikhawat07@gmail.com)
