@@ -85,5 +85,5 @@ Known on internet as **BadBoy17**
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
 
-## Email Me :e-mail:
+## Email Me :
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:Rajveershikhawat07@gmail.com)
