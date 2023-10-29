@@ -51,4 +51,17 @@ I just shared it to kaggle for convenience. (I am mistaken and the public licens
 
  Modeling wine preferences by data mining from physicochemical properties.
 
+## Contribution
+
+
+**BTC Wallet : OxfCaaF45156380eF33f078256d0Aa98f0b10F175b** my efforts and help it grow by buying me coffee - but only if you're definitely able to!
+
+
+### Contact Me !
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
+
+
 
