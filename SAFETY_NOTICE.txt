@@ -1,0 +1,31 @@
+⚠️  SHADOWPRINT SAFETY NOTICE ⚠️
+
+This tool is designed for AV (Antivirus) Evasion and should ONLY be used for:
+
+✅ LEGITIMATE PURPOSES:
+- Security research and testing
+- Authorized penetration testing
+- Educational demonstrations
+- Testing your own systems
+- Certificate security research
+
+❌ NEVER USE FOR:
+- Bypassing security on systems you don't own
+- Malicious activities
+- Unauthorized testing
+- Harmful purposes
+
+🔒 RESPONSIBLE USAGE:
+- Always obtain proper authorization
+- Use only on systems you control
+- Follow ethical hacking guidelines
+- Respect privacy and security
+
+📚 EDUCATIONAL VALUE:
+This demonstration shows how:
+1. SSL certificates can be cloned from legitimate websites
+2. Executables can be digitally signed with spoofed certificates
+3. Antivirus software can potentially be bypassed
+4. Certificate security can be compromised
+
+Remember: With great power comes great responsibility!
